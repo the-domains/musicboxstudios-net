@@ -1,0 +1,28 @@
+name: MusicBoxStudios.net
+favicon: null
+layout_spectrum: 0.2365929768420756
+typography_spectrum: 0.9469394769985229
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.2117568717803806
+  lightness: 0.04479396087117493
+  saturation: 0.5236357650719583
+  rhythmicContrast: 0.891831062734127
+purpose: []
